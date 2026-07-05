@@ -4,7 +4,7 @@
 # ==========================================
 
 # 1. Your IITM Email
-EMAIL = "24f3000361@study.iitm.ac.in"
+EMAIL = "24f3000361@ds.study.iitm.ac.in"
 
 # 2. Q1: CORS Allowed Origin
 Q1_ALLOWED_ORIGIN = "https://dash-vs6mrk.example.com"
