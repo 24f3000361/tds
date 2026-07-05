@@ -37,7 +37,7 @@ Q9_RATE_LIMIT = 15
 
 # 7. Q10: Middleware Rate Limit (Find allowed origin and rate limit)
 Q10_ALLOWED_ORIGIN = "https://app-or7vuv.example.com"
-Q10_RATE_LIMIT = 12 req / 10s
+Q10_RATE_LIMIT = 12
 
 # ==========================================
 # FIXED VARIABLES (Do not change these)
